@@ -1,0 +1,13 @@
+c:\users\cfgs\documents\visual studio 2015\Projects\ConsoleApplicationMetodos\ConsoleApplicationMetodos\bin\Debug\ConsoleApplicationMetodos.exe.config
+c:\users\cfgs\documents\visual studio 2015\Projects\ConsoleApplicationMetodos\ConsoleApplicationMetodos\bin\Debug\ConsoleApplicationMetodos.exe
+c:\users\cfgs\documents\visual studio 2015\Projects\ConsoleApplicationMetodos\ConsoleApplicationMetodos\bin\Debug\ConsoleApplicationMetodos.pdb
+c:\users\cfgs\documents\visual studio 2015\Projects\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.csprojResolveAssemblyReference.cache
+c:\users\cfgs\documents\visual studio 2015\Projects\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.exe
+c:\users\cfgs\documents\visual studio 2015\Projects\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.pdb
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\bin\Debug\ConsoleApplicationMetodos.exe.config
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\bin\Debug\ConsoleApplicationMetodos.exe
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\bin\Debug\ConsoleApplicationMetodos.pdb
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.exe
+C:\Users\Victor\Source\Repos\ConsoleApplicationMetodos\ConsoleApplicationMetodos\obj\Debug\ConsoleApplicationMetodos.pdb
