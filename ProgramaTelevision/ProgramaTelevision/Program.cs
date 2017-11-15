@@ -53,7 +53,7 @@ semana completa (lunes a viernes).
                     Console.WriteLine("Duración de programa: ");
                     duracion = Int32.Parse(Console.ReadLine());
 
-                    semana.dia[elegirDia].horario[elegirHorario].nuevoPrograma(nombreSerie, tipo, duracion);
+                    semana.nuevoPrograma(elegirDia, elegirHorario, nombreSerie, tipo, duracion);
                     break;
                 case 2:
                     //pedirán los datos de día y horario, y se eliminarán los datos del programa para ese horario.
@@ -63,11 +63,10 @@ semana completa (lunes a viernes).
                     Console.WriteLine("Di el horario en el que quieras borrar el programa, primera hora-0, matinal-1, etc.: ");
                     elegirHorario = Int32.Parse(Console.ReadLine());
 
-                    semana.dia[elegirDia].horario[elegirHorario].borrarPrograma();
+                    semana.borrarPrograma(elegirDia, elegirHorario);
                     break;
                 case 3:
-                    /*datos de día y horario, y los 
-minutos que se quiere aumentar o disminuir*/
+                    /*datos de día y horario, y los minutos que se quiere aumentar o disminuir*/
                     Console.WriteLine("Di el día que quieres modificar el programa, lunes-0, martes-1, etc.:");
                     elegirDia = Int32.Parse(Console.ReadLine());
                     Console.WriteLine("Di el horario en el que quieras modificar el programa, primera hora-0, matinal-1, etc.: ");
@@ -75,14 +74,20 @@ minutos que se quiere aumentar o disminuir*/
                     Console.WriteLine("Di los minutos que quieres añadir o quitar, si quieres quitar introduce un número negativo: ");
                     duracion = Int32.Parse(Console.ReadLine());
 
-                    semana.dia[elegirDia].horario[elegirHorario].modDuracion(duracion);
+                    semana.modMinutos(elegirDia, elegirHorario, duracion);
                     break;
-                case 4:
+                case 4: //MUESTRA HORARIOS DE TODA LA SEMANA
                     semana.mostrarSemana();
                     break;
-                case 5:
+                case 5: //MUESTRO HORARIOS DE UN ÚNICO DÍA
+                    Console.WriteLine("Di el día que quieres visualizar la programación, lunes-0, martes-1, etc.:");
+                    elegirDia = Int32.Parse(Console.ReadLine());
+                    semana.programacionDia(elegirDia);
                     break;
-                case 6:
+                case 6: //MUESTRA LOS MINUTOS EN LAS FRANJAS HORARIAS DE UN ÚNICO DÍA
+                    Console.WriteLine("Di el día del que quieres visualizar los minutos totales, lunes-0, martes-1, etc.:");
+                    elegirDia = Int32.Parse(Console.ReadLine());
+                    semana.minutosDia(elegirDia);
                     break;
                 case 7:
                     break;
@@ -99,7 +104,7 @@ minutos que se quiere aumentar o disminuir*/
 
             //decirHoraIni(semana);
             while (seleccion != 7)
-            {
+            {                
                 menu(ref seleccion); //Muestra las opciones.
                 resolver(seleccion, ref semana); //Según elijas, resolverá la opción elegida.
             }
