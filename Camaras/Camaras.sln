@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camaras", "Camaras\Camaras.csproj", "{8B7FD450-FDF3-4AAF-883C-2B0523E4C328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramaTelevision", "..\ProgramaTelevision\ProgramaTelevision\ProgramaTelevision.csproj", "{E2676C9F-51A6-4449-BCD2-1A2D6E2BE15C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7FD450-FDF3-4AAF-883C-2B0523E4C328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7FD450-FDF3-4AAF-883C-2B0523E4C328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7FD450-FDF3-4AAF-883C-2B0523E4C328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7FD450-FDF3-4AAF-883C-2B0523E4C328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2676C9F-51A6-4449-BCD2-1A2D6E2BE15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2676C9F-51A6-4449-BCD2-1A2D6E2BE15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2676C9F-51A6-4449-BCD2-1A2D6E2BE15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2676C9F-51A6-4449-BCD2-1A2D6E2BE15C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
