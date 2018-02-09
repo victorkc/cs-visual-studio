@@ -1,0 +1,9 @@
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\bin\Debug\TiendaInformatica.exe.config
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.csprojResolveAssemblyReference.cache
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.Form1.resources
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.Properties.Resources.resources
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.csproj.GenerateResource.Cache
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\bin\Debug\TiendaInformatica.exe
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\bin\Debug\TiendaInformatica.pdb
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.exe
+c:\users\cfgs\documents\visual studio 2015\Projects\TiendaInformatica\TiendaInformatica\obj\Debug\TiendaInformatica.pdb
