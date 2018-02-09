@@ -24,6 +24,7 @@ namespace TiendaInformatica
 
             Ordenador o1 = new Ordenador("HP", "skkd", 5, 900, 4, 5);
 
+            //if(p1 is Ordenador) imprimir
             //foreach(Producto p in ) { }
             textBoxResultado.Text = p1.Escribe() + "\r\n";
         }
